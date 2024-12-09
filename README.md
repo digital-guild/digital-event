@@ -1,5 +1,3 @@
-Voici le guide adapté au format MDX, avec une structure claire et bien organisée pour un rendu agréable :
-
 ```mdx
 # Guide d'installation et configuration d'un projet Laravel avec Inertia.js et Vue.js
 
